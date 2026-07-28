@@ -10,9 +10,8 @@
 <h1 data-importer="text" align="center">Hello, I'm Richard Ochei</h1>
 
 ###
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="[https://s5.ezgif.com/tmp/ezgif-516aa2a2110eacc1.gif](https://cdn.imageurlgenerator.com/uploads/1eb51640-eba0-4a8d-9de1-1d625f0a29cc.gif)"  />
+<div align="center">
+  <img height="200" src="./profile.gif" alt="Coding GIF" />
 </div>
 
 ###
