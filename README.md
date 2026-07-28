@@ -1,3 +1,4 @@
+
 <div data-importer="socials" align="right">
   <a href="https://uk.linkedin.com/in/richardochei" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="36" height="30" alt="linkedin logo"  />
@@ -11,7 +12,7 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://s5.ezgif.com/tmp/ezgif-516aa2a2110eacc1.gif"  />
+  <img data-importer="image" height="200" src="[https://s5.ezgif.com/tmp/ezgif-516aa2a2110eacc1.gif](https://cdn.imageurlgenerator.com/uploads/1eb51640-eba0-4a8d-9de1-1d625f0a29cc.gif)"  />
 </div>
 
 ###
