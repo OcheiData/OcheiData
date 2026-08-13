@@ -1,13 +1,13 @@
 
 <div data-importer="socials" align="right">
-  <a href="https://uk.linkedin.com/in/richardochei" target="_blank">
+  <a href="www.linkedin.com/in/richard-okon-aa5664429" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="36" height="30" alt="linkedin logo"  />
   </a>
 </div>
 
 ###
 
-<h1 data-importer="text" align="center">Hello, I'm Richard Ochei</h1>
+<h1 data-importer="text" align="center">Hello, I'm Richard Okon</h1>
 
 ###
 <div align="center">
